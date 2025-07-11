@@ -13,6 +13,14 @@ With a strong background across **eCommerce, SaaS, and digital strategy**, I spe
 
 ---
 
+## 🛠️ Tools
+
+- Languages: SQL, Python, R
+- Visualization: Power BI, Looker & LookerStudio, Tableau
+- Other analytics: Google Analytics, Excel & Google Sheets
+
+---
+
 ## 💻 What you'll find here
 
 - SQL scripts for customer insights, attribution, and data transformation

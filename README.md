@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kate!
 
-<!--
-**kate-j-hall/kate-j-hall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a **data-driven analytics and strategy professional** with 7+ years of experience helping companies unlock growth through insights, experimentation, and customer-centric decision-making.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong background across **eCommerce, SaaS, and digital strategy**, I specialize in:
+- 🔍 Customer journey analytics & attribution modeling
+- 🧪 Experimentation strategy & design (A/B, pre/post, holdout analysis)
+- 📊 Statistical analysis & data visualization (SQL, Power BI, Looker, BigQuery)
+- 🚀 Business problem-solving & cross-functional collaboration
+- 📈 Driving measurable impact through data-informed strategies
+
+---
+
+## 💻 What you'll find here
+
+- SQL scripts for customer insights, attribution, and data transformation
+- Business templates, analytics reports, and tools for data storytelling
+- Prototypes of tools or dashboards that merge analytics with user-friendly design
+
+---
+
+## 🌱 What I'm working on
+
+- Building a **forward-looking pipeline model** to forecast business performance
+- Exploring **LLM and image recognition integration** for a shopping search engine prototype
+- Developing **A/B testing dashboards** for faster decision-making
+
+---
+
+## 📫 Let's connect!
+
+Feel free to connect or collaborate:
+- 💼 [LinkedIn](#) *https://www.linkedin.com/in/katelynjhall/*
+
+---
+
+💡 **Motto:** *Turning complexity into clarity, one data point at a time.*

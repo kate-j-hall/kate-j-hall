@@ -40,7 +40,7 @@ With a strong background across **eCommerce, SaaS, and digital strategy**, I spe
 ## 📫 Let's connect!
 
 Feel free to connect or collaborate:
-- 💼 [LinkedIn](#) *https://www.linkedin.com/in/katelynjhall/*
+- 💼 [LinkedIn] https://www.linkedin.com/in/katelynjhall/
 
 ---
 

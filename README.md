@@ -31,17 +31,13 @@ With a strong background across **eCommerce, SaaS, and digital strategy**, I spe
 
 ## 🌱 What I'm working on
 
-- Building a **forward-looking pipeline model** to forecast business performance
 - Exploring **LLM and image recognition integration** for a shopping search engine prototype
-- Developing **A/B testing dashboards** for faster decision-making
 
 ---
 
 ## 📫 Let's connect!
 
 Feel free to connect or collaborate:
-- 💼 [LinkedIn] https://www.linkedin.com/in/katelynjhall/
+- 💼 [LinkedIn] (https://www.linkedin.com/in/katelynjhall/)
 
 ---
-
-💡 **Motto:** *Turning complexity into clarity, one data point at a time.*
